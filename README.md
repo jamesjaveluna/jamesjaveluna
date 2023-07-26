@@ -1,5 +1,8 @@
 # 💫About Me :
-I am currently a 4th year student with a degree of bachelor of science in information and technology
+- 👋 4th Year Information Technology student.
+- 🌱 Passionate about coding and problem-solving.
+- 💻 Exploring the world of software development.
+- 🚀 Open to exciting opportunities and collaborations.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/javeLunaJames) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamesjaveluna) 
